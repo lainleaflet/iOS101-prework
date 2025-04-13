@@ -1,10 +1,10 @@
-# Prework - *firstProject*
+# Prework - *firstProject* for iOS101
 
 Submitted by: **Alexis Danh**
 
-**firstProject** is an app that has three labels describing myself, my username, and my aspirational job. It additionally has a button that changes the background color of the app. 
+**firstProject** is an app that has three labels describing myself, my username, and my aspirational job. It additionally has a button that changes the background color of the app. This was made as an introductory app to Swift and Xcode. 
 
-Time spent: **1** hour spent in total
+Time spent: **2** hour spent in total
 
 ## Required Features
 
