@@ -20,9 +20,9 @@ https://www.loom.com/share/05d38d807af64cd0b5a0be9c360ddaff?sid=82d10e5b-01d5-4a
 
 ## App Brainstorming (Step 4)
 My favorite apps:
-Duolingo -- gamifies learning languages with leaderboards and streaks, friending feature that allows the user to connect with others they know learning languages, too 
-Substack -- bookmark feature that allows me to save articles for later, articles can be paired with a speaker so that readers can also listen to them
-EMMO -- colorful and playful UI, uses a calendar-based journal to easily present data of one's emotions throughout a period of time
+- Duolingo -- gamifies learning languages with leaderboards and streaks, friending feature that allows the user to connect with others they know learning languages, too 
+- Substack -- bookmark feature that allows me to save articles for later, articles can be paired with a speaker so that readers can also listen to them
+- EMMO -- colorful and playful UI, uses a calendar-based journal to easily present data of one's emotions throughout a period of time
 
 An app idea I have is a social media app meant to highlight vulnerability and personal challenges, promoting environments of humility and gratitude instead of perfectionism and virality. Users would share their personal challenges, growth, and reflection in a way similar to journalling, and be able to connect with others on a more authentic level. Along with typical social media features, it could have suggested prompts for posting similar to how a journal would be. In addition to tags to filter specific types of content, there could be an emoji tag set by the poster to describe their current emotion or the emotions of the post. 
 
